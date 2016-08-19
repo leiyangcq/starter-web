@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 We tried different things in this repo.
-
+And we shall see the difference from the remote.
 
 ## Purpose
 
