@@ -13,3 +13,6 @@ And with fake dialogues.
 
 ##Deployment
 A project can be deployed anywhere.
+
+##Copyright
+2016 Git.Training
