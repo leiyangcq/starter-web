@@ -8,6 +8,8 @@ And we shall see the difference from the remote.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+And with fake dialogues.
 
 ##Deployment
+A project can be deployed anywhere.
